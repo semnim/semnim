@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring & React**
 
-- 👨‍💻 All of my projects are available at [https://semnim.github.io/personal-portfolio/](https://semnim.github.io/personal-portfolio/)
+- 👨‍💻 Some of my projects are available at [https://semnim.github.io/personal-portfolio/](https://semnim.github.io/personal-portfolio/)
 
 - 💬 Ask me about **my cats**
 
