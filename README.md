@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Semnim</h1>
-<h3 align="left">Fullstack trainee @ i19s.</h3>
+<h1 align="left">Hi 👋, I'm Semnim.</h1>
+<h3 align="left">Fullstack trainee @ i19s</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semnim&label=Profile%20views&color=0e75b6&style=flat" alt="semnim" /> </p>
 
