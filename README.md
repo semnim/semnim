@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Semnim.</h1>
 <h3 align="left">Fullstack trainee @ i19s</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=semnim&label=Profile%20views&color=0e75b6&style=flat" alt="semnim" /> </p>
-
 - 🌱 I’m currently learning **Spring & React**
 
 - 👨‍💻 Some of my projects are available [here](https://semnim.github.io/personal-portfolio/)
@@ -18,4 +16,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=semnim&show_icons=true&locale=en" alt="semnim" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=semnim&show_icons=true&locale=en&layout=compact" alt="semnim" /></p>
+<p aligne="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=semnim&show_icons=true&locale=en&layout=compact" alt="semnim" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=semnim&label=Profile%20views&color=0e75b6&style=flat" alt="semnim" /> </p>
