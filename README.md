@@ -21,3 +21,5 @@
 <p aligne="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=semnim&show_icons=true&locale=en&layout=compact" alt="semnim" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semnim&label=Profile%20views&color=0e75b6&style=flat" alt="semnim" /> </p>
+
+[![@semnim's Holopin board](https://holopin.io/api/user/board?user=semnim)](https://holopin.io/@semnim)
